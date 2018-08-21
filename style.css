@@ -1,0 +1,40 @@
+#box-wrapper{
+	margin-top: 150px;
+	text-align: center;
+}
+#quote-box {
+	width: 40%;
+	height: 200px;
+
+	background-color: #A9AFD1;
+	border: 5px solid black;
+
+	padding: 20px 20px 0px 20px;
+	overflow: hidden;
+}
+#author{
+	text-align: right;
+	padding-right: 25px;
+}
+#new-quote {
+	margin-left: 230px;
+	
+}
+#share-tweet{
+	padding: none;
+}
+.btn-group {
+	float: left;
+	padding-left: 20px;
+}
+
+.quote_text{
+	font-family: Raleway;
+	}
+
+h1{
+	text-align: center;
+}
+body {
+	background-color: #A1CDF4;
+}
